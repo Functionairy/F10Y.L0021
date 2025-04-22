@@ -1,2 +1,2 @@
 # F10Y.L0021
-Where operator library.
+Where command invocation-based where operator library.
