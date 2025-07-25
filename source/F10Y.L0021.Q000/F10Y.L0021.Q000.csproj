@@ -1,7 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup Label="Main">
-    <TargetFramework>net8.0</TargetFramework>
-    <OutputType>Library</OutputType>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <NoWarn>1573;1587;1591;IDE0130</NoWarn>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
@@ -18,6 +17,6 @@
     <ProjectReference Include="..\F10Y.L0021\F10Y.L0021.csproj" />
     <ProjectReference Include="..\..\..\F10Y.T0006\source\F10Y.T0006\F10Y.T0006.csproj" />
     <ProjectReference Include="..\..\..\F10Y.L0019\source\F10Y.L0019\F10Y.L0019.csproj" />
-    <ProjectReference Include="..\..\..\F10Y.L0004\source\F10Y.L0004\F10Y.L0004.csproj" />
+    <ProjectReference Include="..\..\..\F10Y.L0004\source\F10Y.L0004.L000\F10Y.L0004.L000.csproj" />
   </ItemGroup>
 </Project>
