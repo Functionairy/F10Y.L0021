@@ -13,7 +13,7 @@ namespace F10Y.L0021
         /// <summary>
         /// <para><value>where</value></para>
         /// </summary>
-        public string where => "where";
+        string where => "where";
 
 #pragma warning restore IDE1006 // Naming Styles
     }

@@ -11,6 +11,6 @@ namespace F10Y.L0021
         /// <summary>
         /// <para><value>Pattern</value></para>
         /// </summary>
-        public string Pattern => "Pattern";
+        string Pattern => "Pattern";
     }
 }

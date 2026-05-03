@@ -13,17 +13,17 @@ namespace F10Y.L0021
         /// <summary>
         /// <para><value>NON_EXISTENT</value></para>
         /// </summary>
-        public string NON_EXISTENT => "NON_EXISTENT";
+        string NON_EXISTENT => "NON_EXISTENT";
 
         /// <summary>
         /// <para><value>help</value></para>
         /// </summary>
-        public string help => "/?";
+        string help => "/?";
 
         /// <summary>
         /// <para><value>where</value></para>
         /// </summary>
-        public string where => "where";
+        string where => "where";
 
 #pragma warning restore IDE1006 // Naming Styles
     }
